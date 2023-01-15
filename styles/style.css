@@ -115,7 +115,19 @@ p{
     margin-right: auto;
     margin-top: 150px;
 
+}
+.img-architact img{
+    margin-top: 100px;
+    position: absolute;
 } 
+.ten-y{
+    width: 150px;
+    height: 100px;
+    font-size: 20px;
+    margin-top: 1030px;
+    position: relative;
+    background-color: orange;
+}
 
 /* .line{
     width: 5px;
@@ -144,8 +156,7 @@ p{
     width:586px ;
     height: 78px;
     margin-top: 40px;
-    
-    
+       
 }
 
 .main-flex{
@@ -154,15 +165,9 @@ p{
     
 }
 
-.bonus-m{
-     padding: 10px;
-    background-color: orange;
-    width: 342px;
-    height: 200px;
-    position: relative;
-    margin-top: 400px; 
+.ten-y{
+    display: none;
 }
-
 /* main section 2 end..... */
 
 /* hover effect section strt.. */
