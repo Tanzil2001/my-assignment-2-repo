@@ -4,6 +4,8 @@
 body{
     font-family: 'Work Sans', sans-serif;
     background-color: beige;
+    width: 100%;
+    overflow-x: hidden;
     
 }
 /*.....utilitis..... */
